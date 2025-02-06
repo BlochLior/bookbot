@@ -1,2 +1,2 @@
 # bookbot
-boot.dev repo can ignore
+BookBot is my first project!
